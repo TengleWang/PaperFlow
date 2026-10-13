@@ -259,7 +259,7 @@ evil-read-arxiv 是论文自动化工作流先驱，scopus-subscription 从中�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ethan2409/PaperFlow&type=Date)](https://star-history.com/#Ethan2409/PaperFlow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TengleWang/PaperFlow&type=Date)](https://star-history.com/#TengleWang/PaperFlow&Date)
 
 ## License
 
